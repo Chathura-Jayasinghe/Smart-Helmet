@@ -1,2 +1,2 @@
-# Smart-Helmet-Integrated-Safety-System-for-Helmets-
+# Smart-Helmet
 This repo includes the Integrated Safety System for Helmets.
