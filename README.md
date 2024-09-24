@@ -1,4 +1,5 @@
-# Traffic-Sign-Recognition-Using-YOLO
+![White and Blue Professional Modern Technology Pitch Deck Presentation](https://github.com/user-attachments/assets/c9d0f2b5-17f8-48fc-bf1e-436260fdd5fc)
+# Smart Helmet
 
 This repository contains model and training notebook for traffic sign recognition
 
